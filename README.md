@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IronicDeGawd
-- 👀 I’m interested in Game Development :D
-- 🌱 I’m currently learning C/C++ :p
+- 👀 I have my interets in web3, cloud and ar/vr :D
+- 🌱 I’m currently learning CSS/javascript :p
 - 📫 You could dm me on Discord : Ironic#9491
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IronicDeGawd
-- 👀 I have my interets in web3, cloud and ar/vr :D
-- 🌱 I’m currently learning WebDev, Unity and Solidity  :p
+- 👀 I have my interets in web3 and ar/vr :D
+- 🌱 I’m currently learning WebDev, and Solidity  :p
 - 📫 You could dm me on Discord : Ironic#9491
 
 <!---

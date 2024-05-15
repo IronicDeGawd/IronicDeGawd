@@ -1,8 +1,6 @@
 <h1 align="center">Hello peeps, I'm Aditya Srivastava</h1>
 <h3 align="center">A nerd from India, currently pursuing CS, and finding my way through life!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ironicdegawd" alt="ironicdegawd" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/0xironyaditya" target="blank"><img src="https://img.shields.io/twitter/follow/0xironyaditya?logo=twitter&style=for-the-badge" alt="0xironyaditya" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

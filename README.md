@@ -35,11 +35,11 @@
 ## GitHub
 
 <p align="center">
-  <img height="170" src="https://ghstats.ironyaditya.xyz/api?username=IronicDeGawd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0a0a0f&title_color=8b8bff&text_color=e8e8ec&icon_color=5eead4">
-  <img height="170" src="https://ghstats.ironyaditya.xyz/api/top-langs?username=IronicDeGawd&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0f&title_color=8b8bff&text_color=e8e8ec">
+  <img height="170" src="https://ghstats.ironyaditya.xyz/api?username=IronicDeGawd&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=8b8bff&text_color=e8e8ec&icon_color=5eead4">
+  <img height="170" src="https://ghstats.ironyaditya.xyz/api/top-langs?username=IronicDeGawd&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=8b8bff&text_color=e8e8ec">
 </p>
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=IronicDeGawd&hide_border=true&background=0a0a0f&stroke=232329&ring=8b8bff&fire=5eead4&currStreakLabel=8b8bff&currStreakNum=e8e8ec&sideNums=e8e8ec&sideLabels=9a9aa6&dates=6b6b76">
+  <img height="170" src="https://streak-stats.demolab.com/?user=IronicDeGawd&hide_border=true&background=0d1117&stroke=232329&ring=8b8bff&fire=5eead4&currStreakLabel=8b8bff&currStreakNum=e8e8ec&sideNums=e8e8ec&sideLabels=9a9aa6&dates=6b6b76">
 </p>
 
 <sub align="center">Stats served from my own box (ironytower) via github-readme-stats.</sub>

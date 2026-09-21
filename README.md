@@ -1,68 +1,48 @@
-# 👋 Hi, I'm Aditya Srivastava
+<p align="center">
+  <img src="./assets/banner.png" alt="Aditya Srivastava — smart contracts, AI systems, infrastructure" width="100%">
+</p>
 
-> Building the future, one commit at a time 🚀
+<p align="center">
+  <a href="https://x.com/0xironyAditya"><img alt="X / Twitter" src="https://img.shields.io/badge/%400xironyAditya-0a0a0f?style=for-the-badge&logo=x&logoColor=8b8bff&labelColor=0a0a0f"></a>
+  <img alt="focus" src="https://img.shields.io/badge/web3%20%7C%20AI%20%7C%20infra-5eead4?style=for-the-badge&labelColor=0a0a0f">
+</p>
 
-I'm a BTech CS student passionate about exploring new technologies and building innovative solutions. Currently focused on full-stack development and cloud technologies.
+## What I build
 
-## 🎯 Current Focus
-- 🌱 Learning React patterns and AWS services
-- 🔨 Building full-stack applications
-- 🤝 Open to collaborate on interesting projects
+- ⛓️ **Smart contracts & on-chain systems** — Solidity with gas measured in CI, native event-driven execution, prediction-market and trading primitives.
+- 🤖 **AI / LLM systems** — calibrated probability models as decision engines, agentic loops, and self-hosted local-LLM serving with real benchmarks.
+- 🧱 **Infrastructure** — trading bots, faucets, and ephemeral CI runner farms on AWS; Redis queues, Docker, and the plumbing that keeps it all live.
+- 📏 **Measured claims only** — if something says *fast* or *cheap*, there's a number and a reproducer behind it.
 
-## 🛠️ Tech Arsenal
+## Recent public work
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+- **[somnia-vs-keeper-loop](https://github.com/IronicDeGawd/somnia-vs-keeper-loop)** — the same contract reacting to an on-chain event across 8 EVM chains, live on testnet; a study in native reactivity vs the off-chain keeper loop.
+- **[EthOnline2026-Amulet](https://github.com/IronicDeGawd/EthOnline2026-Amulet)** — a wearable pendant that's the only device allowed to carry a transaction to your Ledger. *(ETHOnline 2026 — Ledger · The Graph · ENS.)*
+- **[ec-dreamdex-hackathon-template](https://github.com/IronicDeGawd/ec-dreamdex-hackathon-template)** — a minimal, anti-spoonfeed starter for building on-chain binary prediction markets.
 
-### Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## Tech
 
-### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-0a0a0f?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-0a0a0f?style=for-the-badge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=ffd343)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=node.js&logoColor=5eead4)
+![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ethereum](https://img.shields.io/badge/EVM-0a0a0f?style=for-the-badge&logo=ethereum&logoColor=8b8bff)
+![AWS](https://img.shields.io/badge/AWS-0a0a0f?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Redis](https://img.shields.io/badge/Redis-0a0a0f?style=for-the-badge&logo=redis&logoColor=FF4438)
 
-### Languages & Tools
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## GitHub
 
-### Design & 3D
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IronicDeGawd&custom_title=Contribution%20activity&bg_color=0a0a0f&color=e8e8ec&title_color=8b8bff&line=8b8bff&point=5eead4&area=true&area_color=8b8bff&hide_border=true">
+</p>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ironicdegawd&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ironicdegawd&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ironicdegawd&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-## 💭 Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
-</div>
-
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastava-ironic/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xironyAditya)
-
-## 💝 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ironyaditya)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ir0n1c)
-
----
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ironicdegawd&icon=0&color=0" alt="Profile Views" />
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IronicDeGawd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=8b8bff&text_color=e8e8ec&icon_color=5eead4">
+  <img height="170" src="https://streak-stats.demolab.com/?user=IronicDeGawd&hide_border=true&background=0a0a0f&stroke=26263a&ring=8b8bff&fire=5eead4&currStreakLabel=8b8bff&sideLabels=e8e8ec&dates=6b6b76&currStreakNum=e8e8ec&sideNums=e8e8ec">
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IronicDeGawd&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=8b8bff&text_color=e8e8ec">
+</p>

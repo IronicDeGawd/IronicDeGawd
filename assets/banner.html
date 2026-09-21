@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>profile banner</title>
+<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700&family=Inter:wght@600;800&display=swap" rel="stylesheet">
+<style>
+  html,body{margin:0;background:#0a0a0f}
+  .b{width:1280px;height:400px;position:relative;overflow:hidden;background:#0a0a0f;color:#e8e8ec;
+     font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;padding:56px 64px;box-sizing:border-box}
+  .b::before{content:"";position:absolute;inset:0;background:
+     radial-gradient(680px 340px at 92% -10%, rgba(139,139,255,.20), transparent 60%),
+     radial-gradient(520px 300px at 0% 120%, rgba(94,234,212,.10), transparent 60%),
+     repeating-linear-gradient(0deg, rgba(255,255,255,.02) 0 1px, transparent 1px 34px),
+     repeating-linear-gradient(90deg, rgba(255,255,255,.02) 0 1px, transparent 1px 34px)}
+  .in{position:relative;height:100%;display:flex;flex-direction:column;justify-content:space-between}
+  .eyebrow{font-family:"Source Code Pro",monospace;font-size:18px;letter-spacing:.16em;text-transform:uppercase;color:#9a9aa6}
+  h1{font-size:76px;line-height:1.02;margin:14px 0 0;letter-spacing:-.02em;font-weight:800}
+  .grad{background:linear-gradient(92deg,#8b8bff,#5eead4);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .tag{font-family:"Source Code Pro",monospace;font-size:22px;color:#c7c7d1;margin-top:16px}
+  .chips{display:flex;gap:10px;flex-wrap:wrap}
+  .chip{font-family:"Source Code Pro",monospace;font-size:16px;color:#b9b9c6;border:1px solid #26263a;background:#12121a;border-radius:999px;padding:8px 16px}
+  .foot{display:flex;justify-content:space-between;align-items:flex-end;font-family:"Source Code Pro",monospace;font-size:19px;color:#6b6b76}
+  .foot b{color:#8b8bff;font-weight:600}
+</style>
+</head>
+<body>
+<div class="b"><div class="in">
+  <div>
+    <div class="eyebrow">smart contracts · ai systems · infrastructure</div>
+    <h1>Aditya <span class="grad">Srivastava</span></h1>
+    <div class="tag">I build across web3, AI/LLM systems, and the infra under them — with numbers behind the claims.</div>
+  </div>
+  <div class="chips">
+    <span class="chip">Solidity</span><span class="chip">TypeScript</span><span class="chip">Python</span>
+    <span class="chip">local LLMs</span><span class="chip">agents</span><span class="chip">AWS</span>
+  </div>
+  <div class="foot"><span>github.com/IronicDeGawd</span><span><b>𝕏 @0xironyAditya</b></span></div>
+</div></div>
+</body>
+</html>

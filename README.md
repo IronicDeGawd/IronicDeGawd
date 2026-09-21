@@ -35,16 +35,11 @@
 ## GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IronicDeGawd&theme=github_dark">
+  <img height="170" src="https://ghstats.ironyaditya.xyz/api?username=IronicDeGawd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0a0a0f&title_color=8b8bff&text_color=e8e8ec&icon_color=5eead4">
+  <img height="170" src="https://ghstats.ironyaditya.xyz/api/top-langs?username=IronicDeGawd&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a0f&title_color=8b8bff&text_color=e8e8ec">
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IronicDeGawd&theme=github_dark">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IronicDeGawd&theme=github_dark">
+  <img height="170" src="https://streak-stats.demolab.com/?user=IronicDeGawd&hide_border=true&background=0a0a0f&stroke=232329&ring=8b8bff&fire=5eead4&currStreakLabel=8b8bff&currStreakNum=e8e8ec&sideNums=e8e8ec&sideLabels=9a9aa6&dates=6b6b76">
 </p>
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IronicDeGawd&theme=github_dark">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IronicDeGawd&theme=github_dark&utcOffset=5.5">
-</p>
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=IronicDeGawd&theme=github-dark&hide_border=true&background=0d1117&stroke=30363d&ring=8b8bff&fire=5eead4&currStreakLabel=8b8bff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e">
-</p>
+
+<sub align="center">Stats served from my own box (ironytower) via github-readme-stats.</sub>

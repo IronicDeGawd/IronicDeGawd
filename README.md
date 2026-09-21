@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Aditya Srivastava — smart contracts, AI systems, infrastructure" width="100%">
+  <img src="./assets/banner.png" alt="Aditya Srivastava, smart contracts, AI systems, infrastructure" width="100%">
 </p>
 
 <p align="center">
